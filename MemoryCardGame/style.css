@@ -19,7 +19,7 @@ body{
   flex-direction: column;
 }
 
-.main h1{
+.main .title-1{
   text-align: center;
   margin: 30px;
   
