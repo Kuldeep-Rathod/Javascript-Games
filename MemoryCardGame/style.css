@@ -13,6 +13,18 @@ body{
   min-height: 100vh;
   background: #6563FF;
 }
+
+.main{
+  display: flex;
+  flex-direction: column;
+}
+
+.main h1{
+  text-align: center;
+  margin: 30px;
+  
+}
+
 .wrapper{
   padding: 25px;
   border-radius: 10px;
